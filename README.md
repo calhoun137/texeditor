@@ -1,4 +1,5 @@
-texeditor
+
+TexEditor
 =========
 
 An HTML TEX editor
